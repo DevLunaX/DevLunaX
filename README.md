@@ -10,5 +10,5 @@
 
   ### Thanks for your visit!
   
-  ![visitors](https://hits.seovr.dev/github/DevLunaX/DevLunaX.svg)
+
 
