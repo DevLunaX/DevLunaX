@@ -25,10 +25,6 @@ I have a strong affinity for mobile development using **Kotlin**, **Swift**, and
   *PWA / Mobile Platform*  
   Working as an intern on developing a comprehensive student information and management platform for CONAMAT. Built as a high-performance PWA, engineered for cross-platform mobile publishing on **iOS (via Capacitor)** and **Android**.
 
-- **ApiControlEscolar**  
-  *Full-Stack School Management System*  
-  A complete educational platform built with **Next.js**, **.NET**, and **PostgreSQL**. Features automated QR-code attendance tracking, integrated PayPal payments, automated invoicing, and real-time email notifications.
-
 - **FoodMarket / Consume Local**  
   *Native Mobile Application (iOS & Android)*  
   A dual-platform native mobile project developed from scratch utilizing **Kotlin** for Android and **Swift** for iOS, exploring native UI/UX patterns and local commerce workflows (Currently in development phase).
@@ -71,4 +67,4 @@ I have a strong affinity for mobile development using **Kotlin**, **Swift**, and
 ## 📫 How to Reach Me
 
 - **GitHub:** [@DevLunaX](https://github.com/DevLunaX)
-- **LinkedIn:** *[Add your LinkedIn profile link here]*
+- **LinkedIn:** *https://www.linkedin.com/in/gerardo-mauricio-luna-moctezuma-0381833b8/*
