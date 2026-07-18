@@ -2,7 +2,7 @@
 
 ### Full-Stack & Mobile Developer 🚀
 
-I'm a software engineer passionate about building complete solutions from database to user interface. Currently focused on full-stack development with **React/Next.js** and **C# .NET**, while also exploring mobile development with **Kotlin** and **MAUI**.
+I'm a software engineer passionate about building complete solutions from database to user interface. Currently focused on full-stack development with **React/Next.js** and **C# .NET**, while also exploring mobile development with **Kotlin** and **Swift**.
 
 ## 👨‍💻 About Me
 
